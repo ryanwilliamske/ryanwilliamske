@@ -5,9 +5,9 @@
 
 ### It was foretold that you would be here. Our long awaited meeting has come at last <br>
 🔭 Join me, and together, we can rule the web! <br>
-https://twitter.com/ryanwilliamske <br>
-https://instagram.com/ryanwilliamske <br>
-            
+<a href="https://twitter.com/ryanwilliamske"><p>Twitter</p></a>
+      
+      
 
 <!--
 **ryanwilliamske/ryanwilliamske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
