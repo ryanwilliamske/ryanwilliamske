@@ -1,10 +1,10 @@
 
-<img src="_MG_1592.jpg" /> 
+
 ### Hello there! 👋
 🔭 I’m currently working on music and a bunch of useful REST APIs coming soon!
 How to reach me: https://twitter.com/ryanwilliamske
                  https://instagram.com/ryanwilliamske
-                 
+              
 
 <!--
 **ryanwilliamske/ryanwilliamske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
