@@ -1,6 +1,7 @@
+### It was foretold that you would be here. Our long awaited meeting has come at last!
 <img src="https://www.denofgeek.com/wp-content/uploads/2017/03/darth-vader-1_0.jpg?resize=768%2C432" />
 
-### Hello there! 👋
+
 🔭 I’m currently working on music and a bunch of useful REST APIs coming soon!
 How to reach me: https://twitter.com/ryanwilliamske
                  https://instagram.com/ryanwilliamske
