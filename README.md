@@ -1,6 +1,7 @@
-# I, am your JavaScript developer!
+# I, am your web developer!
 
 ### It was foretold that you would be here. Our long awaited meeting has come at last <br>
+When I'm not coding on my own, I serve the Computer Science Empire in Strathmore University, and I'm a HUGE Star Wars fan <br>
 🔭 Join me, and together, we can rule the web! <br>
 <a href="https://twitter.com/ryanwilliamske"><p>Twitter</p></a>
 
