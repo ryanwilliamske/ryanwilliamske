@@ -1,7 +1,7 @@
-### Hello there! Yes, it's actually RYANWILLIAMS<br>
+### Yes, this is actually RYANWILLIAMS<br>
 🔭 I write web apps when I'm bored, or when I have an assignment from school. I do enjoy it sometimes <br>
 
-Follow me on <a href="https://twitter.com/ryanwilliamske"><p>Twitter!</p></a>
+<a href="https://twitter.com/ryanwilliamske"><p>Twitter</p></a>
 
 
 
