@@ -1,7 +1,13 @@
 ### Yes, this is actually RYANWILLIAMS<br>
 🔭 I write web apps when I'm bored, or when I have an assignment from school. I do enjoy it sometimes <br>
 
-<a href="https://twitter.com/ryanwilliamske"><p>Twitter</p></a>
+🔭 What am I currently working on? Well, I'm focusing on my personal MERN website where people will download my music and buy my merch. <a href="https://github.com/ryanwilliamske/ryanwilliams.ke">Repository</a> <br>
+
+
+
+<a href="https://twitter.com/ryanwilliamske"><p>Twitter</p></a> <br>
+
+🔭 <em> I don't think anyone's gonna read this </em>
 
 
 
