@@ -1,4 +1,4 @@
-### It was foretold that you would be here. Our long awaited meeting has come at last <br>
+### Hello there! Yes, it's actually RYANWILLIAMS<br>
 🔭 I write web apps when I'm bored, or when I have an assignment from school. I do enjoy it sometimes <br>
 
 Follow me on <a href="https://twitter.com/ryanwilliamske"><p>Twitter!</p></a>
