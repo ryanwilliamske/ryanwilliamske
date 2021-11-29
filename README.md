@@ -1,8 +1,7 @@
 ### Hello there! <br>
 
-🔭 Ocassional developer <br>
 
-🔭 I write JavaScript and Python apps <br>
+🔭 I write React and Python apps <br>
 
 <a href="https://twitter.com/ryanwilliamske"><p>Twitter</p></a> <br>
 
