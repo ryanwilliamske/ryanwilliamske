@@ -1,7 +1,7 @@
 ### Willkommen! <br>
 
 
-🔭 <i> Mein Projekte Demnächst </i> <br>
+🔭 <i> Mein Projekte demnächst! </i> <br>
 
    
 <!--
